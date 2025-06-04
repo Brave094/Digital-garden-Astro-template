@@ -22,20 +22,11 @@ such as mdx integration, react, Tailwind for styling.
  ```
  npm install
  ```
- 
- ```
- yarn install
- ```
-
- ```
- pnpm install
- ```
-
- ```
- bun install
- ```
 
  and run the dev server 
 
-- .. run dev
+```
+npm run dev
+```
+
 
