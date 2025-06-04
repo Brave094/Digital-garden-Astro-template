@@ -1,53 +1,41 @@
-<<<<<<< HEAD
-# Astro Starter Kit: Minimal
+# Template Digital Garden 
 
-```sh
-npm create astro@latest -- --template minimal
-```
+this template dedicated to whom wnats to start a build their own digital Garden. For now is uncompleted, so will adding more features for this.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+The template is empty, so you can start from zero if you want. But i installed the plugin core of this Template
+such as mdx integration, react, Tailwind for styling. 
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### Tech stack:
 
-## 🚀 Project Structure
+- Astro 5
+- Tailwind v4
+- React integration
+- Mdx integration
+- Sitemap integration
+- Husky and conventional commits for git hooks
+- Biome linter
+- Cypress for testing
 
-Inside of your Astro project, you'll see the following folders and files:
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+# Install dependencies
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+ ---
+ npm install
+ ---
+ 
+ ---
+ yarn install
+ ---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+ ---
+ pnpm install
+ ---
 
-Any static assets, like images, can be placed in the `public/` directory.
+ ---
+ bun install
+ ---
 
-## 🧞 Commands
+ and run the dev server 
 
-All commands are run from the root of the project, from a terminal:
+- .. run dev
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-# brandon-site
-# Digital-garden-Astro-template
-=======
->>>>>>> e1a1052887ba4acc0727dbb156c2dea896e4a399
-# Digital-garden-Astro-template
