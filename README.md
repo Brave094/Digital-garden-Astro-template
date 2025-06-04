@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Minimal
 
 ```sh
@@ -47,4 +48,6 @@ All commands are run from the root of the project, from a terminal:
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 # brandon-site
 # Digital-garden-Astro-template
+=======
+>>>>>>> e1a1052887ba4acc0727dbb156c2dea896e4a399
 # Digital-garden-Astro-template
