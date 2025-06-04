@@ -19,21 +19,21 @@ such as mdx integration, react, Tailwind for styling.
 
 # Install dependencies
 
- ---
+ ```
  npm install
- ---
+ ```
  
- ---
+ ```
  yarn install
- ---
+ ```
 
- ---
+ ```
  pnpm install
- ---
+ ```
 
- ---
+ ```
  bun install
- ---
+ ```
 
  and run the dev server 
 
